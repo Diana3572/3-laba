@@ -52,4 +52,4 @@ while wrong_answers < 3:
         print("Ответ неверный")
         wrong_answers += 1
 
-print(f"Игра кончена. Правильных ответов: {correct_answers}")
+print(f"Игра окончена. Правильных ответов: {correct_answers}")
